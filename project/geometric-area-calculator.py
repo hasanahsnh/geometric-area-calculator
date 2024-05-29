@@ -1,7 +1,7 @@
 import streamlit as st
 import math
 
-# Def class
+# Definisi class
 class Triangle:
     def __init__(self, base, height):
         self.__base = base
